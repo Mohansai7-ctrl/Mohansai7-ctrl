@@ -10,6 +10,8 @@ DevOps Engineer
 
 🚀 I've deployed multi-tier applications using tools like Shell, Ansible, Terraform, Docker, Kubernetes, and Jenkins CICD. 
 Also I have implemented DevSecOps practices as well, Currently exploging to GitOps-based Argo CD.
+Porjects are 1)expense and 2)roboshop - each has many dependent repositories, can identify using respective names.
+
 Feel free to explore and connect for any questions or collaboration opportunities! :)
 
 
