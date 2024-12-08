@@ -8,9 +8,14 @@ DevOps Engineer
 
 🧠  I invite you to check out my GitHub for projects focused on DevOps, AWS, Terraform, Docker, Kubernetes, and CI/CD automation. I share practical code and solutions to enhance cloud infrastructure management and deployment. 
 
-🚀 I've deployed multi-tier applications using tools like Shell, Ansible, Terraform, Docker, Kubernetes, and Jenkins CICD. 
-Also I have implemented DevSecOps practices as well, Currently exploging to GitOps-based Argo CD.
-Porjects are 1)expense and 2)roboshop - each has many dependent repositories, can identify using respective names.
+🚀 I've deployed multi-tier applications manually and by using tools like Shell, Ansible, Terraform, Docker, Kubernetes, and Jenkins CICD. 
+🚀 I created by using each above tool individually, so that we can know the disadvantages and advantages of each tool.
+
+🚀 Also I have implemented DevSecOps practices as well, Currently exploging to GitOps-based Argo CD.
+🚀 Projects are 1)expense and 
+                 2)roboshop
+                    each has many dependent repositories, can identify using respective names.
+
 
 Feel free to explore and connect for any questions or collaboration opportunities! :)
 
