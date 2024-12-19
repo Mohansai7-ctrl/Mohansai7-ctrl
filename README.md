@@ -39,4 +39,7 @@ Feel free to explore and connect for any questions or collaboration opportunitie
 <a href="https://www.linkedin.com/in/bandarumohansai">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a> 
+<a href="https://github.com/Mohansai7-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a> 
 </a><a href="https://github.com/Mohansai7-ctrl " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>  </p>
