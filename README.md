@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior DevSecOps Engineer
 ------------------
 
-🚀 A passionate and results-driven DevSecOps Engineer at Infosys with 4+ years of experience in designing, implementing, and managing cloud-native infrastructure and DevSecOps pipelines to ensure high-availability applications. My expertise spans across DevSecOps tools and cloud technologies, enabling businesses to achieve agility, scalability, and operational excellence.
+🚀 A passionate and results-driven DevSecOps Engineer at Infosys with 4.5 years of experience in designing, implementing, and managing cloud-native infrastructure and DevSecOps pipelines to ensure high-availability applications. My expertise spans across DevSecOps tools and cloud technologies, enabling businesses to achieve agility, scalability, and operational excellence.
 
 🧠  I invite you to check out my GitHub for projects focused on DevSecOps, AWS, Terraform, Docker, Kubernetes, and CI/CD automation. I share practical code and solutions to enhance cloud infrastructure management and deployment. 
 
